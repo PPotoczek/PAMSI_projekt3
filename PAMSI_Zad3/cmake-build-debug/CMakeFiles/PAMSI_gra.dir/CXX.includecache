@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Komputer/CLionProjects/PAMSI_gra/Plansza.cpp
+Plansza.h
+C:/Users/Komputer/CLionProjects/PAMSI_gra/Plansza.h
+
+C:/Users/Komputer/CLionProjects/PAMSI_gra/Plansza.h
+iostream
+-
+vector
+-
+
